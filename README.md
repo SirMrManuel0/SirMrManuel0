@@ -2,9 +2,9 @@
 
 ## About Me 🚀
 
-I'm a passionate programmer based in Germany and currently a student at a gymnasium. My primary programming language is Python, but I'm always eager to explore and learn new technologies. Recently, I've been diving into the worlds of Rust, C#, and Java, expanding my skill set and embracing new challenges.
+I'm a programmer based in Germany and currently a student at a gymnasium. My primary programming language is Python, but I'm always eager to explore and learn new technologies. Recently, I've been diving into the worlds of Java (and Rust), expanding my skill set and embracing new challenges.
 
-**Funny Quote:**
+
 > "Why do programmers prefer dark mode? Because light attracts bugs!" 🌌😄
 
 ## Programming Languages 💻
