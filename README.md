@@ -17,7 +17,7 @@ I'm a programmer based in Germany and currently a student at a gymnasium. My pri
 
 ## Current Focus 🔍
 
-I'm currently focusing on honing my Python skills and gradually learning Rust, C#, and Java. I believe in the power of continuous learning and enjoy tackling projects that push my boundaries.
+I'm currently focusing on honing my Python skills and gradually learning Java (and Rust). I believe in the power of continuous learning and enjoy tackling projects that push my boundaries.
 
 ## Connect with Me 🌐
 
