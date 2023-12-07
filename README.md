@@ -21,7 +21,6 @@ I'm currently focusing on honing my Python skills and gradually learning Rust, C
 
 ## Connect with Me 🌐
 
-- GitHub: [SirMrManuel0](https://github.com/SirMrManuel0)
-- Discord: @_cygamer (Feel free to reach out, but keep in mind it's my 2nd account, so I might not respond immediately) 🎮
+- Discord: sirmrmanuel (Feel free to reach out) 🎮
 
 Feel free to explore my repositories, and don't hesitate to connect on Discord if you share similar interests or have any questions. Let's code and learn together! 🚀
