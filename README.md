@@ -9,10 +9,10 @@ I'm a programmer based in Germany and currently a student at a gymnasium. My pri
 
 ## Programming Languages 💻
 
-- 🐍 Python (Primary)
+- 🐍 Python (Learning)
 - ☕ Java (Learning)
-- 🦀 Rust (Exploring)
-- #️⃣ C# (Curious)
+- #️⃣ C# (Learning)
+- ➕ C++ (Learning)
 
 
 ## Current Focus 🔍
