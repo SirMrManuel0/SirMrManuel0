@@ -11,7 +11,7 @@ I'm a programmer based in Germany and currently a student at a gymnasium. My pri
 
 - 🐍 Python (Learning)
 - ☕ Java (Learning)
-- #️⃣ C# (Learning)
+- 🦀 Rust (Learning)
 - ➕ C++ (Learning)
 
 
