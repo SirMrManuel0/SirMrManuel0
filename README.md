@@ -1,23 +1,11 @@
 # Hello, I'm SirMrManuel0! 👋
 
-## About Me 🚀
-
-I'm a programmer based in Germany and currently a student at a gymnasium. My primary programming language is Python, but I'm always eager to explore and learn new technologies. Recently, I've been diving into the worlds of Java (and Rust), expanding my skill set and embracing new challenges.
-
-
 > "Why do programmers prefer dark mode? Because light attracts bugs!" 🌌😄
 
 ## Programming Languages 💻
 
 - 🐍 Python (Learning)
-- ☕ Java (Learning)
-- 🦀 Rust (Learning)
-- ➕ C++ (Learning)
-
-
-## Current Focus 🔍
-
-I'm currently focusing on honing my Python skills and gradually learning Java (and Rust). I believe in the power of continuous learning and enjoy tackling projects that push my boundaries.
+- 🐹 Go (Learning)
 
 ## Connect with Me 🌐
 
